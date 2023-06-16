@@ -22,6 +22,9 @@ The environment has to be setup in the EC2 instance for being able to run Kafka 
 
  
  ![image](https://github.com/DataCounsel/Datastreaming-project/assets/71335870/2b49c289-e98f-4f4c-bde2-c135d6475427)
+ 
+ ![image](https://github.com/DataCounsel/Datastreaming-project/assets/71335870/bf9d291b-4c7c-4b79-9247-b25caf3d40a2)
+
 
 ![image](https://github.com/DataCounsel/Datastreaming-project/assets/71335870/7b8b8052-cb02-4aac-b207-a76af0869388)
 
