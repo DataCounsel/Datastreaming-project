@@ -1,4 +1,4 @@
-# Datastreaming-project
+# Datastreaming project Using AWS
 
 Project Objective
 
@@ -9,7 +9,7 @@ Introduction
 In this project the aim is to simulate a real-time data streaming scenario where data is being Generated continuously and it needs to be transferred and processed instantly. It finds application in various domains where timely and up-to-date information is crucial like Internet of Things (IoT), financial services, social media analysis, online gaming and streaming, traffic management and logistics, cybersecurity and network monitoring, healthcare and remote monitoring, energy and utilities. The high-level architecture diagram of the project is as below.
 The data source here is a csv file containing stock market data. In a real scenario the data will be fetched using an API. The Kafka producer and consumer have been running at the same time to simulate the real scenario. The Kafka server and Zookeeper instance have been deployed on the EC2 instance and are both running at the same time. The data is being streamed to an S3 container and a glue crawler is storing it in a table and the data can be queried in real-time using Athena.
 
-Architecture Diagram
+<ins> Architecture Diagram </ins>
 
 
 ![image](https://github.com/DataCounsel/Datastreaming-project/assets/71335870/3aae44fa-5e63-4c23-ad38-b2f5360334e6)
